@@ -1,6 +1,5 @@
 # Hacktoberfest2020
 
-
 A collection of different types of algorithms used for various different Data Structures, in different languages.
 This repository is open to all. 
 To help you out with your Hacktoberfest goals!!  
@@ -40,7 +39,7 @@ You can either add
 - Add this file inside the folder with the name of the algorithm you have implemented.
 - If you have some specific details u need to add according to the implementation in a specific language, add it as comments in the code, or create a sub-folder (Algo Name - language) and add the text file and the code files.  
 (Can also be done in case the implementation in a language requires more than one file.)
-- A more organized and structured pull request has gretaer chances to be approved. (Cuz maintainers are Lazy AF)
+- A more organized and structured pull request has greater chances to be approved. 
 
 
 ## Links to help you out
@@ -56,12 +55,13 @@ https://medium.com/@saumya.ranjan/how-to-write-a-readme-md-file-markdown-file-20
 ## Note
 
 - Avoid overwriting other people's contributions, adding spaces and tabs or making any other type of invalid pull requests.   
- (They will be marked invalid and won't be counted in your HacktoberFest goals.) ( PS- If you find any such requests, please report to me.)
+ (They will be marked invalid and won't be counted in your HacktoberFest goals.) ( PS- If you find any such requests, please report to us.)
 - If you have any other doubts, feel free to discuss in the issue.
 
 Idea for some algorithms  :
 
 - Searching Algorithms
+- Sorting Algorithms
 - Graph Algos ( Bellman Ford ,Topological sort, BFS,DFS,Dijkstra, Min spanning tree algos) 
 - Tree Algos 
 - Stacks ( inorder and post order expressions)

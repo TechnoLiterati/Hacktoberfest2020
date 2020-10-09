@@ -45,7 +45,9 @@ You can either add
 
 ## Links to help you out
 
-In case you find the steps given above as vague and unclear, feel free to look up these amazing articles  
+For creating a pull request, you can refer [contributing.md](contributing.md).
+
+In case you find the steps given in above file as vague and unclear, feel free to look up these amazing articles  
 https://help.github.com/en/articles/adding-a-file-to-a-repository-using-the-command-line
 https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github  
 https://medium.com/@saumya.ranjan/how-to-write-a-readme-md-file-markdown-file-20cb7cbcd6f  

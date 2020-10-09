@@ -4,7 +4,7 @@
 A collection of different types of algorithms used for various different Data Structures, in different languages.
 This repository is open to all. 
 To help you out with your Hacktoberfest goals!!  
-All you need to do is just add any sorting algorithm of your choice in any language you like with only the condition that it hasn't already been added.
+All you need to do is just add any algorithm of your choice in any language you like with only the condition that it hasn't already been added.
 
 
 ## Structure of the Repository
@@ -55,8 +55,6 @@ https://medium.com/@saumya.ranjan/how-to-write-a-readme-md-file-markdown-file-20
 
 - Avoid overwriting other people's contributions, adding spaces and tabs or making any other type of invalid pull requests.   
  (They will be marked invalid and won't be counted in your HacktoberFest goals.) ( PS- If you find any such requests, please report to me.)
-- **No Array or Linked List Sorting Algorithms please** 
-We already have a repo for that from last year : https://github.com/tulika-99/sorting-algorithms
 - If you have any other doubts, feel free to discuss in the issue.
 
 Idea for some algorithms  :

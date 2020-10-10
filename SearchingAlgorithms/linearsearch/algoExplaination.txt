@@ -1,0 +1,26 @@
+Linear Search, is self explanatory, it means to search for a number or for a character in an array.
+It is done linearly. First element is compared to the next element, the next element is compared to next-to-next element and so on.
+This all goes on in a loop, until the terminating condition is met.
+
+For example:
+INPUT:
+We have an array arr[]={10, 20, 30, 40, 50, 60, 70, 80}
+And the number we have to find out is x = 60. We want to check in 60 is present in arr[]
+
+OUTPUT: The number is present in the array
+
+Print the above statement on screen if the key is found, or else print "The number is not present in the array"
+
+---------------------------------------
+|10 | 20 | 30 | 40 | 50 | 60 | 70 | 80|     -> this is the array we have, we want to look for 60
+--------------------------------------
+
+In the main() we have defined the size of the array, n, the elements of the array arr[] and x
+A call is made to the function search() and parameters are passed as arr[], n, x
+We have a for loop which starts from i=1, goes till n (till the last value is reached)
+The for loop checks if arr[i]==x then 1 would be returned otherwise -1 will be returned
+
+In main():
+the return value of search() is stored in a variable called result. 
+with ternary operator, we print the output on screen.
+

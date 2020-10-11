@@ -11,7 +11,7 @@ You'll see the fork option on the top right hand side of the screen.
 - Click on the fork button.
 <details open>
   <summary>Fork Button Image</summary>
-  <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/fork%20button.PNG" alt="fork button Image">
+  <img src="https://github.com/TechnoLiterati/Hacktoberfest2020/blob/master/images/fork.PNG" alt="fork button Image">
 </details>
 
 ### Step 2
@@ -21,7 +21,7 @@ You can do this in 2 ways:
 
 <details>
   <summary>Code Button and Clone Options Image</summary>
-  <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/clone%20link.PNG" alt="Code Button Image">
+  <img src="https://github.com/TechnoLiterati/Hacktoberfest2020/blob/master/images/clone.PNG" alt="Code Button Image">
 </details>
 
 1. OPTION 1
@@ -42,7 +42,7 @@ You can do this in 2 ways:
   ```
 <details>
   <summary>Cloning though git bash</summary>
-  <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/cloned.PNG" alt="fork button link">
+  <img src="https://github.com/TechnoLiterati/Hacktoberfest2020/blob/master/images/cli%20clone.PNG" alt="fork button link">
 </details>
   
 ### Step 3
@@ -66,7 +66,7 @@ git checkout YOUR_BRANCH_NAME
 ```
 <details>
   <summary>It should look like this. (With your chosen names ofcourse)</summary>
-  <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/branched.PNG" alt="Branching procedure">
+  <img src="https://github.com/TechnoLiterati/Hacktoberfest2020/blob/master/images/branching.PNG" alt="Branching procedure">
 </details>
   
 
@@ -95,7 +95,7 @@ git commit -m "Added binary search"
 ```
 <details>
   <summary>Commiting Image</summary>
-  <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/committed.PNG" alt="Commiting Image">
+  <img src="" alt="Commiting Image">
 </details>
 
 
@@ -110,7 +110,7 @@ Now open your github account to make a pull request.
 - Click on compare and pull request.
 
 <div align="center">
-  <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/pr1.PNG" alt="pr button">
+  <img src="" alt="pr button">
 </div>
 <br>
 

@@ -95,7 +95,7 @@ git commit -m "Added binary search"
 ```
 <details>
   <summary>Commiting Image</summary>
-  <img src="" alt="Commiting Image">
+  <img src="https://github.com/TechnoLiterati/Hacktoberfest2020/blob/master/images/commit.PNG" alt="Commiting Image">
 </details>
 
 
@@ -110,14 +110,14 @@ Now open your github account to make a pull request.
 - Click on compare and pull request.
 
 <div align="center">
-  <img src="" alt="pr button">
+  <img src="https://github.com/TechnoLiterati/Hacktoberfest2020/blob/master/images/pull%20request.PNG" alt="pr button">
 </div>
 <br>
 
 - Write a meaningful description and click on Create Pull Request.
 
 <div align="center">
-  <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/pr2.PNG">
+  <img src="https://github.com/TechnoLiterati/Hacktoberfest2020/blob/master/images/finalimage.PNG">
 </div>
 
 <h2 align="center">Congratulations! You just created your first pull request🥳</h2>
